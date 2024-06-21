@@ -1,25 +1,54 @@
-# Angular Tutorials Repository
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://yt3.googleusercontent.com/lfCPxyUgRzmQay0c53Rxpqq4qihVtGLdzD1xSQqL3QH1Yce6pXXExg72UjhcefqIjyNgteBYBPU=s176-c-k-c0x00ffffff-no-rj" alt="Angular Tutorials" width="600px">
+</p>
 
-Welcome to the Angular Tutorials Repository! This repository contains a collection of Angular tutorials organized into separate folders. Each tutorial folder contains the code and resources related to that tutorial.
+---
 
-## Tutorials List
+<!-- Introduction -->
+
+## Welcome to Angular Tutorials Repository! 🚀
+
+This repository hosts a curated collection of Angular tutorials designed to help you master Angular development. Each tutorial is organized into separate folders, containing code samples, resources, and step-by-step guides.
+
+---
+
+<!-- Tutorials Section -->
+
+## 📚 Tutorials List
 
 1. [Getting Started with Angular](./getting-started) - Learn the basics of Angular framework.
 2. [Angular Components Deep Dive](./components-deep-dive) - Explore advanced concepts of Angular components.
-3. [Angular Routing and Navigation](./routing-navigation) - Learn how to implement routing and navigation in Angular.
-4. [Angular Forms and Validation](./forms-validation) - Master form handling and validation in Angular applications.
-5. [Angular Services and Dependency Injection](./services-di) - Understand services and dependency injection in Angular.
+3. [Angular Routing and Navigation](./routing-navigation) - Implement routing and navigation in Angular apps.
+4. [Angular Forms and Validation](./forms-validation) - Master form handling and validation in Angular.
+5. [Angular Services and Dependency Injection](./services-di) - Understand services and dependency injection.
 
-## Social Media
+---
 
-Connect with us on social media for more updates, tutorials, and discussions:
+<!-- Social Media Links -->
 
-- YouTube: [Angular Tutorials Channel](https://www.youtube.com/angular-tutorials)
-- Twitter: [@angular_tutorials](https://twitter.com/angular_tutorials)
-- Facebook: [Angular Tutorials Page](https://www.facebook.com/angular-tutorials)
+## 🌟 Connect with Us
 
-## Contributing
+Stay updated with the latest tutorials, tips, and discussions by following us on social media:
 
-We welcome contributions from the community! If you have any suggestions, improvements, or new tutorials to add, feel free to fork this repository and submit a pull request.
+- [YouTube](https://www.youtube.com/channel/UC6xwdnM1K6B6h5EcsZrn0gg) 🎥
+- [Instagram](https://www.instagram.com/lokesh.k.gupta/) 🐦
+- [Facebook](https://www.facebook.com/i.m.bad.boy.with.good.habit) 📘
+- [LinkedIn](https://www.linkedin.com/in/me-gupta-lokesh/) 🔗
+- [Leetcode](https://leetcode.com/u/glokesh94/) 🔗
+- [HackerRank](https://www.hackerrank.com/profile/glokesh94) 🔗
 
-Happy coding! 🚀
+---
+
+<!-- Contribution Guidelines -->
+
+## 🤝 Contributing
+
+We welcome contributions from the community! If you have suggestions, improvements, or new tutorials to add, feel free to fork this repository and submit a pull request.
+
+---
+
+<!-- Footer -->
+<p align="center">
+  Made with ❤️ by Lokesh Gupta (https://github.com/glokesh94)
+</p>
