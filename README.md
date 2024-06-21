@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://yt3.googleusercontent.com/lfCPxyUgRzmQay0c53Rxpqq4qihVtGLdzD1xSQqL3QH1Yce6pXXExg72UjhcefqIjyNgteBYBPU=s176-c-k-c0x00ffffff-no-rj" alt="Angular Tutorials" width="600px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="Angular Tutorials" width="600px" height="200px">
 </p>
 
 ---
