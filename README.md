@@ -31,6 +31,7 @@ This repository hosts a curated collection of Angular tutorials designed to help
 
 Stay updated with the latest tutorials, tips, and discussions by following us on social media:
 
+- [YouTube](https://www.youtube.com/angular-tutorials){:target="_blank"} 🎥
 - [YouTube](https://www.youtube.com/channel/UC6xwdnM1K6B6h5EcsZrn0gg){:target="_blank"} 🎥
 - [Instagram](https://www.instagram.com/lokesh.k.gupta/){:target="_blank"} 🐦
 - [Facebook](https://www.facebook.com/i.m.bad.boy.with.good.habit){:target="_blank"} 📘
