@@ -1,0 +1,14 @@
+<div class="container">
+  <h1>Internet Status Checker</h1>
+  <div class="status" *ngIf="internetStatus">&#9679; Online</div>
+  <div class="offline" *ngIf="!internetStatus">&#9679; Offline</div>
+  <div class="links">
+    <h2>YouTube Links</h2>
+    <a href="https://www.youtube.com/channel/your-channel-id" target="_blank"
+      >YouTube Channel</a
+    >
+    <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank"
+      >YouTube Video</a
+    >
+  </div>
+</div>
