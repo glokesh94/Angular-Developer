@@ -17,7 +17,7 @@ This repository hosts a curated collection of Angular tutorials designed to help
 
 ## 📚 Tutorials List
 
-1. [Check Online Offline Status In Angular](./getting-started) - Check Online Offline Status In Angular.
+1. [Check Online Offline Status In Angular](./check-online-offline-status-in-angular) - Check Online Offline Status In Angular.
 <!-- 2. [Angular Components Deep Dive](./components-deep-dive) - Explore advanced concepts of Angular components.
 2. [Angular Routing and Navigation](./routing-navigation) - Implement routing and navigation in Angular apps.
 3. [Angular Forms and Validation](./forms-validation) - Master form handling and validation in Angular.
